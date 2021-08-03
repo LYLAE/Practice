@@ -24,8 +24,7 @@ public class practice_210803_1 {
 		System.out.println("x / y = " + (x / y));
 		System.out.println("x % y = " + (x % y));
 		
-		x = 10;
-		System.out.println("x += 10 : " + (x += 10));
+		
 		
 		/*
 		 * x += 10
@@ -33,6 +32,12 @@ public class practice_210803_1 {
 		 */
 		
 		//복합대입 연산자
+		
+		
+		x = 10;
+		System.out.println("x += 10 : " + (x += 10));
+		
+		
 		x = 10;
 		System.out.println("x += 10 : " + (x += 10));
 		
