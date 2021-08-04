@@ -18,7 +18,7 @@ public class practice_210804_1 {
 		System.out.println("arr[4] : " + arr1[4]);
 		
 		
-		int[] arr2 = {10, 20, 30}; // 배열 선언과 초기화를 동시에
+		int[] arr2 = {10, 20, 30}; // 배열 선언과 초기화를 동시에 함.
 		System.out.println("arr2[0] : " + arr2[0]);
 		System.out.println("arr2[1] : " + arr2[1]);
 		System.out.println("arr2[2] : " + arr2[2]);
